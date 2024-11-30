@@ -1,24 +1,30 @@
 # Evently - Event Management Website Built Using Next.js
 
 ## Introduction
-
-Welcome to Evently, an event management website developed using Next.js. This application allows users to discover, explore, and manage events seamlessly. You can access the live deployment of Evently at [https://nextjs-evently-sabir.vercel.app/](https://nextjs-evently-sabir.vercel.app/).
+Gumii is a comprehensive event management platform designed to simplify the process of discovering, hosting, and managing events. Built using Next.js, Gumii offers a seamless user experience with features such as event discovery, user authentication, event registration, and payment management. 
 
 ## Features
+![Homepage](/public/homepage.png)
 
 - **Event Discovery:** Browse through a wide range of events by searching and filtering.
 - **User Authentication:** Create an account or log in to access personalized features.
+![Auth](/public/auth.png)
+- **Manage User Account:** Update your profile, change your password, and manage your account settings.
+![Manage Account](/public/manageaccount.png)
+
 - **Event Details:** View detailed information about each event, including date, time, location, and description.
 - **Event Registration:** Register for events you're interested in attending.
 - **Create Your Own Event:** Host and manage your events on Evently.
+![Create Event](/public/createevent.png)
+
 - **Attendee Tracking:** Monitor the list of attendees for your events.
 - **Payment Management:** Keep track of the money paid by attendees for your events.
 
 ## Technologies Used
 
 - **Next.js:** A React framework for building server-side rendered and static web applications.
-- **Vercel:** Hosting platform for serverless deployment of web applications.
-
+- **mongodb** for database
+- **Clerk** for authenthication
 ## Getting Started
 
 To run Evently locally, follow these steps:
@@ -26,13 +32,13 @@ To run Evently locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Muhammad-Sabir/nextjs-evently.git
+git clone https://github.com/abdiesu04/Gumii.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd nextjs-evently
+cd Gumii
 ```
 
 3. Install dependencies:
