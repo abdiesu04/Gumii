@@ -17,9 +17,7 @@ Gumii is a comprehensive event management platform designed to simplify the proc
 - **Create Your Own Event:** Host and manage your events on Evently.
 ![Create Event](/public/createevent.png)
 
-- **Attendee Tracking:** Monitor the list of attendees for your events.
-- **Payment Management:** Keep track of the money paid by attendees for your events.
-
+-
 ## Technologies Used
 
 - **Next.js:** A React framework for building server-side rendered and static web applications.
